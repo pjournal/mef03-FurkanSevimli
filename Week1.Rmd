@@ -1,0 +1,32 @@
+---
+title: "Assignment 2 - RMarkdown"
+author: "Furkan Oktay Sevimli"
+date: "24 09 2019"
+output: html_document
+---
+I graduated from Işık University Industrial Engineering Department in 2018.
+I am working as a production and warehouse planning engineer at Nitto Automotive.
+This year is my second year in my work life. My interest in data started 
+when I was in college, but my interest in this field started with a youtube video. 
+The video content was about how Netflix uses big data.
+In my future worklife i would like to develop my data science skills.
+
+# useR! 2019 Toulouse Videos
+[Social Science Marketing & Business - Gert Janssenswillen](https://www.youtube.com/watch?v=LFkqHJyv3IY)
+
+Gert Janssenswillen is a researcher in business engineering. He talks about how to use Bayesian Inference and MCMC to enhance discovery process models. 
+Processes have in common typically is that there is data that is generated to a trickle up event logs or a log book of events which always have these three different characteristics, which is there are activities, events, tasks which happen for a specific case, for instance, a specific invoice. And it is paid. It is written off and so on at a specific point in time. So if the district thinks activity case and timestamp are what we then tried to do is from this data, it is event data. They try to discover process models using by flowchart. Bayesian Inference and MCMC is to learn these process models elements probabilities and dependencies between different elements in the process. Their aim to take this process discovery to increase our understanding of business processes to the next level.
+
+# R posts
+
+[What are the Best Machine Learning Packages in R?](https://www.r-bloggers.com/what-are-the-best-machine-learning-packages-in-r/)
+
+Blog post is introduced machine learning packages in R.
+
+[Why R should be part of your marketing toolbox](https://medium.com/@chrisBow/why-r-should-be-part-of-your-marketing-toolbox-875bd369006)
+
+The post is explaining benefits of R at marketing.
+
+[Basic R Finance](https://genes.bibli.fr/doc_num.php?explnum_id=17689)
+
+The E-Book is about usage of R in Finance.
