@@ -4,4 +4,6 @@
 +[RMarkdown Homework](Week1.html)
 
 ## Week 4
-[Assignment BKM](BKM-Assignment.html)
+
+[Assignment BKM](https://pjournal.github.io/mef03-FurkanSevimli//BKM-Assignment.html)
+
