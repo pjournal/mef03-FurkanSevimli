@@ -9,4 +9,4 @@
 
 ## Join Assignment
 
-Join Assignment](https://pjournal.github.io/mef03-FurkanSevimli//Assignment-Join.html)
+[Assignment_Join](https://pjournal.github.io/mef03-FurkanSevimli//Assignment-Join.html)
